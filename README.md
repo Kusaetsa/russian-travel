@@ -10,4 +10,4 @@
 * файловая структура проекта в соответствии с БЭМ;
 * адаптивная верстка.
 
-[Ссылка на проект](https://github.com/Kusaetsa/russian-travel) 
+[Ссылка на проект](https://kusaetsa.github.io/russian-travel/) 
