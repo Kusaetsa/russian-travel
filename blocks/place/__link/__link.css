@@ -1,0 +1,11 @@
+.place__link {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+}
+
+.place__link:hover {
+    opacity: .8;
+    transition: opacity .2s linear;  
+}

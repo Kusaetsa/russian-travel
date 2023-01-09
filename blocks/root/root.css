@@ -1,0 +1,6 @@
+.root {
+    background-color: rgba(42, 44, 47, 1);
+    font-family: 'Inter', Arial, sans-serif;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
