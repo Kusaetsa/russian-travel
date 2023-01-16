@@ -3,9 +3,9 @@
     line-height: 22px;
     font-weight: 400;
     color: rgba(255, 255, 255, 1);
+    transition: opacity .2s linear;  
 }
 
 .place__link:hover {
     opacity: .8;
-    transition: opacity .2s linear;  
 }

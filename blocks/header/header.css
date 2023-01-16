@@ -18,5 +18,6 @@
     .header {
         max-width: 90%;
         padding: 16px 16px 0;
+        align-items: center;
     }
 }

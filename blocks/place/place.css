@@ -10,6 +10,10 @@
     padding-bottom: 80px;
 }
 
+.place:last-of-type {
+    padding-bottom: 0;
+}
+
 @media screen and (max-width: 1200px) {
     .place {
         max-width: 928px;
@@ -25,9 +29,22 @@
     }
 }
 
+@media screen and (max-width: 768px) {
+    .place {
+        row-gap: 0;
+        padding-bottom: 73px;       
+    }
+}
+
 @media screen and (max-width: 750px) {
     .place {
         display: block;
         padding-bottom: 25px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place {
+        padding-bottom: 50px;
     }
 }
